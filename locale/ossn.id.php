@@ -9,7 +9,7 @@
  * @link      http://www.opensource-socialnetwork.org/licence
  */
 
-$en = array(
+$id = array(
 	'home' => 'Beranda',
 	'site:index' => 'Selamat datang!',
 	'news:feed' => 'Kabar Berita',
@@ -118,21 +118,21 @@ Salin link ke browser kamu jika link tadi tidak bekerja.
 	'user:account:validated' => 'Akunmu berhasil divalidasi!',
 	'user:account:validate:fail' => 'Tidak bisa validasi! Coba lagi.',
 	
-	'cache:enabled' => 'Cache successfully enabled!',
-	'cache:disabled' => 'Cache successfully disabled!',
-	'cache:enable' => 'Enable Cache',
-	'cache:disable' => 'Disable Cache',
+	'cache:enabled' => 'Cache berhasil diaktifkan!',
+	'cache:disabled' => 'Cache berhasil dinonaktifkan!',
+	'cache:enable' => 'Aktifkan Cache',
+	'cache:disable' => 'Non aktifkan Cache',
 	
-	'cache:1' => 'Enabled',
-	'cache:0' => 'Disabled',
-	'cache:notice' => 'Stores CSS and Javascript files in a cache to improve site performance.',
+	'cache:1' => 'Aktif',
+	'cache:0' => 'Non aktif',
+	'cache:notice' => 'Kirim berkas CSS dan Javascript ke cache untuk tingkatkan performa.',
 	
-	'theme:install:notice' => 'Upload a valid .zip theme package.',
-	'com:install:notice' => 'Upload a valid .zip component package.',
+	'theme:install:notice' => 'Unggah berkas tema .zip yang valid.',
+	'com:install:notice' => 'Unggah berkas komponen .zip yang valid.',
 	
-	'login:error' => 'Invalid username or passsword!',
-	'login:error:sub' => "We couldn't log you in. Please check your username or password and try again.",
-	'login:success' => 'You are now logged in!',
+	'login:error' => 'Nama pengguna dan sandi salah!',
+	'login:error:sub' => "Cek nama pengguna dan coba lagi.",
+	'login:success' => 'Kamu telah login!',
 	'com:installed' => 'Component has been uploaded to your components list, you can now enable it from components page.',
 	'com:install:error' => 'Cannot upload component, make sure it is a valid package.',
 	'settings:saved' => 'Settings saved',
@@ -446,4 +446,4 @@ Please click the link below to reset password or copy the link and paste into yo
 	"zh" => "Chinese",
 	"zu" => "Zulu"
 );
-ossn_register_languages('en', $en);
+ossn_register_languages('id', $id);
