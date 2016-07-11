@@ -7,6 +7,13 @@
  * @copyright 2014 iNFORMATIKON TECHNOLOGIES
  * @license   General Public Licence http://www.opensource-socialnetwork.org/licence
  * @link      http://www.opensource-socialnetwork.org/licence
+ * 
+ * Diterjemahkan kembali oleh
+ * @package   (Lawetan.com).ossn
+ * @author    Tim Lawetan.com
+ * @copyright 2016 Tim Lawetan
+ * @License   General Public Licence http://www.opensource-socialnetwork.org/licence
+ * @link      http://www.opensource-socialnetwork.org/licence
  */
 
 $id = array(
